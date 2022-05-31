@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RandObject
+  - Trigger Platform
+  - Moving Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Far
+    uniqueID: 3410806537
+    locked: 0
+  - name: Far Cloud
+    uniqueID: 1082921189
+    locked: 0
+  - name: Close Cloud
+    uniqueID: 3077279763
+    locked: 0
+  - name: Mountain
+    uniqueID: 1951575643
+    locked: 0
+  - name: Very Close Cloud
+    uniqueID: 520796521
+    locked: 0
+  - name: Far Pine
+    uniqueID: 2259636053
+    locked: 0
+  - name: Close Pine
+    uniqueID: 1320522577
+    locked: 0
+  - name: Lava
+    uniqueID: 1037232485
+    locked: 0
+  - name: Spikes
+    uniqueID: 2222723531
+    locked: 0
+  - name: Big Tree
+    uniqueID: 1014560649
+    locked: 0
+  - name: Level Props
+    uniqueID: 2414371155
+    locked: 0
+  - name: Ground Tile
+    uniqueID: 3372056307
+    locked: 0
+  - name: Decoration
+    uniqueID: 3421514187
+    locked: 0
+  - name: Bush & Rock
+    uniqueID: 622289843
+    locked: 0
+  - name: Bouncer
+    uniqueID: 2947946729
+    locked: 0
+  - name: Grass
+    uniqueID: 756213723
+    locked: 0
+  - name: Collectibles
+    uniqueID: 601522783
+    locked: 0
+  - name: Player
+    uniqueID: 2152973
+    locked: 0
